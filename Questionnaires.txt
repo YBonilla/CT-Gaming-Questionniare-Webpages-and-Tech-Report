@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset="UTF-8">
+
+<title> Questionnaire </title>
+</head>
+
+<body>
+
+<p>First Name</p>
+<p>Last Name</p> 
+<p>Date of Birth </p>
+
+<p> 1. Would you say that in general your health is: </p>
+a. Excellent 
+b. Very good 
+c. Good
+d. Fair 
+e. Poor
+
+<p> 2. Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?</p>
+a. Number of Days  (insert a box)
+b. None 8 8 
+
+<p> 3. Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?</p>
+a. Number of Days (insert a box)
+b. None
+
+<p> 4. During the past 30 days, for about how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?
+a. Number of Days  (insert a box)
+b. None 
+
+
+5. Are you LIMITED in any way in any activities because of impairments or health problems?
+a. Yes
+b. No 
+
+6. What are the following health problems that limit your activities? (check all that apply)
+Arthritis/rheumatism 
+Back or neck problem 
+Fractures, bone/joint injury
+Walking problem 
+Lung/breathing problem 
+Hearing problem 
+Eye/vision problem 
+Heart problem 
+Stroke problem (insert box to list any other problems)
+Depression/anxiety/emotional problem
+Other impairment/problem 
+
+7. For HOW LONG have your activities been limited because of your impairments and/or health problems?
+a. Days 
+b. Weeks 
+c. Months 
+d. Years
+
+8. Because of any impairments and/or health problems, do you need the help of other persons with your PERSONAL CARE needs, such as eating, bathing, dressing, or getting around the house?
+a. Yes 
+b. No 
+ 
+9. Because of any impairments and/or health problems, do you need the help of other persons in handling your ROUTINE needs, such as everyday household chores, doing necessary business, shopping, or getting around for other purposes?
+a. Yes
+b. No 
+
+10. During the past 30 days, for about how many days did PAIN make it hard for you to do your usual activities, such as self-care, work, or recreation?
+a. Number of Days 
+b. None 
+
+11. During the past 30 days, for about how many days have you felt SAD, BLUE, or DEPRESSED?
+a. Number of Days 
+b. None 
+
+12. During the past 30 days, for about how many days have you felt WORRIED, TENSE, or ANXIOUS?
+a. Number of Days
+b. None 
+
+13. During the past 30 days, for about how many days have you felt you did NOT get ENOUGH REST or SLEEP?
+a. Number of Days
+b. None
+
+14. During the past 30 days, for about how many days have you felt VERY HEALTHY AND FULL OF ENERGY?
+a. Number of Days
+b. None
+
+</body>
+
+</html>
